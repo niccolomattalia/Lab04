@@ -1,5 +1,3 @@
-from operator import attrgetter
-
 class LingottoFiere:
     def __init__(self, nome):
         self.__nome = nome
